@@ -4,3 +4,4 @@
 <p> Amigo secreto es un juego en el que usted digita una lista de nombres de sus amigos, los cuales deberá ir añadiendo uno a uno e ir pulsando la tecla "añadir". Cuando tenga todos los nombres, presione "sortear"
   para que la lista sea sorteada y reciba en pantalla un nombre al azar. </p>
 <p> Por favor, segúrese de escribir un nombre antes de añadir, pues de lo contrario no le será posible continuar. </p>
+  <p> ¡Que lo disfrutes! </p>
